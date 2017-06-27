@@ -1,8 +1,1 @@
-1. Make a robot draw the first letter of your name
-
-2. Make a robot draw your whole name.
-
-3. Make a robot draw a perfect circle.
-
-4. Make 5 robots and have each one simultaneously draw a circle of a different color. 
-	Position the robots so that the finished picture looks like the Olympic rings.
+Robot ac= new Robot();
